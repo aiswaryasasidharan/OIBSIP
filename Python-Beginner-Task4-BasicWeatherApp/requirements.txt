@@ -1,0 +1,2 @@
+requests
+openweathermapAPI="5de72d572aa49c9f8e4f0b5c9dd08b9e"
